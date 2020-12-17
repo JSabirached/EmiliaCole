@@ -1,0 +1,58 @@
+*{margin: 2 auto;}
+
+body{
+    background-image:url(../img/emilia-music-top.jpg);
+    font-family: Open sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100% 160px;
+     height: 50%;}
+a{text-decoration: none;
+color: rgb(141, 135, 135);
+font-weight: bold;}
+ul.menu{
+    margin-top: 40px;
+    padding: 20px 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+.redes{
+    
+    text-align: right;
+    font-weight: bold;
+    padding: 20 10;
+  
+}
+
+ul a.menu {color: rgba(71, 71, 71, 0);
+    
+}
+ul{line-height: 30px;}
+ul li{list-style: none;
+    
+}
+ul.menu li{
+    display: inline;
+    font-size: 17px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: initial;}
+
+
+   
+
+
+h1{font-family: 'Raleway', sans-serif;
+    
+    font-size: 48pt;
+    font-weight: bold;
+    margin-top: 50px;
+}
+     h4{padding: 1%;}
+     .fa-twitter:hover{color: rgb(53, 172, 247);}
+     .fa-facebook-square:hover{color:rgb(32, 32, 255);}
+     .fa-spotify:hover{color: rgb(5, 83, 5);}
+     .fa-apple:hover{color: rgba(134, 125, 125, 0.753);}
+     .fa-amazon:hover{color:orange;}
+     .fa-instagram:hover{color:rgb(248, 7, 196);}
